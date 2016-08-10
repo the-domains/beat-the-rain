@@ -1,4 +1,3 @@
-layout_spectrum: 0.3553202925249934
 typography_spectrum: 0.41250087320804596
 color:
   brandStrength: 0.3076806867029518
@@ -11,4 +10,6 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.3553202925249934
 name: Beat The Rain
+title: Beat The Rain
