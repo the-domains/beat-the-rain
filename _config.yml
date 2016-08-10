@@ -12,5 +12,9 @@ color:
     - '#CEAFC0'
 layout_spectrum: 0.3553202925249934
 name: Beat The Rain
+navigation:
+  - name: Author
+    url: 'http://www.nigeljaycooper.com'
+    type: external
 title: Beat The Rain
 description: A novel
